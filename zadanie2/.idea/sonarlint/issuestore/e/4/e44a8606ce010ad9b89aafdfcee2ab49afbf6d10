@@ -1,0 +1,9 @@
+
+V
+squid:S106P"9Replace this use of System.out or System.err by a logger.(²îó§8Íë„±Ú-
+|squid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(éåœåÿÿÿÿÿ8Íë„±Ú-
+V
+squid:S106U"9Replace this use of System.out or System.err by a logger.(÷¸Ğ8µ†ƒÆÙ-
+`squid:S22592"BA "NullPointerException" could be thrown; "body" is nullable here.(İ¬€ˆ8«ñœØÙ-
+Asquid:S1148T"#Use a logger to log this exception.(Óùóÿ8µ†ƒÆÙ-
+Fsquid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ğĞ‚ÆÙ-

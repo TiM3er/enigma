@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8343788-c363-4ef6-a5a0-95dc77bd8354" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="271" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RsKe59nnAfWfJmOQYgTARImA9a" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\enigma\zadanie2v2\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestPayUService">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.witowski.piotr.Main" />
+      <module name="zadanie2v2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPauService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zadanie2v2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.witowski.piotr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.witowski.piotr" />
+      <option name="MAIN_CLASS_NAME" value="pl.witowski.piotr.TestPauService" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPayUService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zadanie2v2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.witowski.piotr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.witowski.piotr" />
+      <option name="MAIN_CLASS_NAME" value="pl.witowski.piotr.TestPayUService" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPayUService.newOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zadanie2v2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.witowski.piotr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.witowski.piotr" />
+      <option name="MAIN_CLASS_NAME" value="pl.witowski.piotr.TestPayUService" />
+      <option name="METHOD_NAME" value="newOrderTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestPayUService" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TestPayUService.newOrderTest" />
+        <item itemvalue="JUnit.TestPauService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8343788-c363-4ef6-a5a0-95dc77bd8354" name="Default Changelist" comment="" />
+      <created>1570450455934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570450455934</updated>
+      <workItem from="1570450459289" duration="3214000" />
+      <workItem from="1570457805462" duration="4968000" />
+      <workItem from="1570469704085" duration="606000" />
+      <workItem from="1570485380715" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="144" y="134" key="#Project_Structure" />
+    <state x="144" y="134" key="#Project_Structure/1920.1080/1920.1080" />
+    <state x="557" y="171" key="#TestPayUService.newOrderTest" />
+    <state x="557" y="171" key="#TestPayUService.newOrderTest/1920.1080/1920.1080" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/1920.1080/1920.1080" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/1920.1080/1920.1080" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/1920.1080/1920.1080" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.1080/1920.1080" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.1080/1920.1080" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.1080/1920.1080" />
+    <state x="446" y="161" key="SettingsEditor" />
+    <state x="446" y="161" key="SettingsEditor/1920.1080/1920.1080" />
+    <state x="709" y="0" key="com.intellij.ide.util.TipDialog" />
+    <state x="709" y="0" key="com.intellij.ide.util.TipDialog/1920.1080/1920.1080" />
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup" />
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup/1920.1080/1920.1080" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.1080/1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/witowski/piotr/Main.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zadanie2v2$TestPayUService_newOrderTest.ic" NAME="TestPayUService.newOrderTest Coverage Results" MODIFIED="1570460292513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.witowski.piotr.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/zadanie2v2$TestPayUService.ic" NAME="TestPayUService Coverage Results" MODIFIED="1570460253328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.witowski.piotr.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/zadanie2v2$TestPauService.ic" NAME="TestPauService Coverage Results" MODIFIED="1570458857632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.witowski.piotr.*</FILTER>
+    </SUITE>
+  </component>
+</project>
